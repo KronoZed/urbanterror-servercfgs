@@ -17,14 +17,14 @@ Compatibility: Urban Terror 4.1 - 4.1.1 - 4.2
 GENERAL INFORMATION
 -------------------
 
-*USE IT ONLY TOGETHER AND EDIT CONFIG.CFG
+* USE IT ONLY TOGETHER AND EDIT CONFIG.CFG
 
-*This file does NOT contain all the settings needed to start a server.
+* This file does NOT contain all the settings needed to start a server.
 
-*Note that everything behind double slashes is ignored by the server.
+* Note that everything behind double slashes is ignored by the server.
 
-*For support on setting up a server visit: http://www.urbanterror.info.
+* For support on setting up a server visit: http://www.urbanterror.info.
 
-*For support regarding these config files visit: https://github.com/KronoZed.
+* For support regarding these config files visit: https://github.com/KronoZed.
 
 Last Updated: 20.04.2013
