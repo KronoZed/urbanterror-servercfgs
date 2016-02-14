@@ -31,7 +31,7 @@ GENERAL INFORMATION
 
 * For support on setting up a server visit: http://www.urbanterror.info.
 
-* For support regarding these config files visit: https://github.com/KronoZed/urbanterror-servercfgs.
+* For support regarding these config files visit: https://github.com/KronoZed/urbanterror-servercfgs/issues.
 
 Last Updated: 14.02.2016
 ------------------------
