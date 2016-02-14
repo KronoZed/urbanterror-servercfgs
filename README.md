@@ -33,4 +33,5 @@ Updated by: KronoZ
 
 * For support regarding these config files visit: https://github.com/KronoZed/urbanterror-servercfgs.
 
-Last Updated: 20.04.2013
+Last Updated: 14.02.2016
+------------------------
