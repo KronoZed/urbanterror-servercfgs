@@ -20,7 +20,7 @@ Updated by: KronoZ
 
 * Compatibility: Urban Terror 4.1 - 4.1.1 - 4.2
 
-* GENERAL INFORMATION
+GENERAL INFORMATION
 -------------------
 
 * USE IT ONLY TOGETHER AND EDIT CONFIG.CFG
