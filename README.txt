@@ -1,5 +1,5 @@
 README FILE INFORMATION
-========================
+==================
 
 Author configs pack: Myerr
 Updated by: KronoZ
