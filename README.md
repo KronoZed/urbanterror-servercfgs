@@ -2,7 +2,10 @@ README FILE INFORMATION
 ========================
 
 Author configs pack: Myerr
+--------------------------
 Updated by: KronoZ
+--------------------------
+
 Core cfgs: server.cfg | config.cfg | base.cfg
 Default cfgs: ts.cfg | ctf.cfg | bomb.cfg
 UZ cfgs: uzts.cfg | uzbomb.cfg | uzctf.cfg | uznowave.cfg | uzcah.cfg | uzftl.cfg | uztdm.cfg
@@ -12,6 +15,7 @@ Other cfgs: jump.cfg
 Compatibility: Urban Terror 4.1 - 4.1.1 - 4.2
 
 GENERAL INFORMATION
+-------------------
 
 *USE IT ONLY TOGETHER AND EDIT CONFIG.CFG
 
